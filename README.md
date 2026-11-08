@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/unbeatable951/DSA2/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/unbeatable951/DSA2/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1254-number-of-closed-islands](https://github.com/unbeatable951/DSA2/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/unbeatable951/DSA2/tree/master/1267-count-servers-that-communicate) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/unbeatable951/DSA2/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/unbeatable951/DSA2/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/unbeatable951/DSA2/tree/master/2333-minimum-sum-of-squared-difference) |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1254-number-of-closed-islands](https://github.com/unbeatable951/DSA2/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/unbeatable951/DSA2/tree/master/1267-count-servers-that-communicate) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/unbeatable951/DSA2/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/unbeatable951/DSA2/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Binary Search Tree
@@ -165,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/unbeatable951/DSA2/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1254-number-of-closed-islands](https://github.com/unbeatable951/DSA2/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/unbeatable951/DSA2/tree/master/1267-count-servers-that-communicate) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/unbeatable951/DSA2/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/unbeatable951/DSA2/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Breadth-First Search
@@ -172,11 +175,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/unbeatable951/DSA2/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1254-number-of-closed-islands](https://github.com/unbeatable951/DSA2/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/unbeatable951/DSA2/tree/master/1267-count-servers-that-communicate) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/unbeatable951/DSA2/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Matrix
 |  |
 | ------- |
 | [1254-number-of-closed-islands](https://github.com/unbeatable951/DSA2/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/unbeatable951/DSA2/tree/master/1267-count-servers-that-communicate) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/unbeatable951/DSA2/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3665-twisted-mirror-path-count](https://github.com/unbeatable951/DSA2/tree/master/3665-twisted-mirror-path-count) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/unbeatable951/DSA2/tree/master/3882-minimum-xor-path-in-a-grid) |
@@ -192,4 +197,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/unbeatable951/DSA2/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
+## Counting
+|  |
+| ------- |
+| [1267-count-servers-that-communicate](https://github.com/unbeatable951/DSA2/tree/master/1267-count-servers-that-communicate) |
 <!---LeetCode Topics End-->
