@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1254-number-of-closed-islands](https://github.com/unbeatable951/DSA2/tree/master/1254-number-of-closed-islands) |
 | [1267-count-servers-that-communicate](https://github.com/unbeatable951/DSA2/tree/master/1267-count-servers-that-communicate) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/unbeatable951/DSA2/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [1882-process-tasks-using-servers](https://github.com/unbeatable951/DSA2/tree/master/1882-process-tasks-using-servers) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/unbeatable951/DSA2/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/unbeatable951/DSA2/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/unbeatable951/DSA2/tree/master/2778-sum-of-squares-of-special-elements) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [1882-process-tasks-using-servers](https://github.com/unbeatable951/DSA2/tree/master/1882-process-tasks-using-servers) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/unbeatable951/DSA2/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/unbeatable951/DSA2/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/unbeatable951/DSA2/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
