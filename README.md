@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/unbeatable951/DSA2/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/unbeatable951/DSA2/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/unbeatable951/DSA2/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/unbeatable951/DSA2/tree/master/3789-minimum-cost-to-acquire-required-items) |
 ## Array
 |  |
 | ------- |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2409-count-days-spent-together](https://github.com/unbeatable951/DSA2/tree/master/2409-count-days-spent-together) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/unbeatable951/DSA2/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/unbeatable951/DSA2/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/unbeatable951/DSA2/tree/master/3789-minimum-cost-to-acquire-required-items) |
 | [3886-sum-of-sortable-integers](https://github.com/unbeatable951/DSA2/tree/master/3886-sum-of-sortable-integers) |
 ## Divide and Conquer
 |  |
